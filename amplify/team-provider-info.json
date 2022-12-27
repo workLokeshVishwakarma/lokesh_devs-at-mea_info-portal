@@ -13,7 +13,19 @@
     },
     "categories": {
       "function": {
-        "CustomerHandler": {}
+        "CustomerHandler": {
+          "deploymentBucketName": "amplify-nativeauthentication-dev-23927-deployment",
+          "s3Key": "amplify-builds/CustomerHandler-4b57676330764e695366-build.zip"
+        }
+      },
+      "api": {
+        "apic1bc53ec": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d31ic2q1j9ex5i",
+          "type": "manual"
+        }
       }
     }
   }
