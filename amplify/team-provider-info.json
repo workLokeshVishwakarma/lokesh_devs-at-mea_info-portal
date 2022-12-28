@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lokeshmeadevsinfoapp-dev-84402-authRole",
+      "UnauthRoleArn": "arn:aws:iam::324106371807:role/amplify-lokeshmeadevsinfoapp-dev-84402-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::324106371807:role/amplify-lokeshmeadevsinfoapp-dev-84402-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-lokeshmeadevsinfoapp-dev-84402-deployment",
+      "UnauthRoleName": "amplify-lokeshmeadevsinfoapp-dev-84402-unauthRole",
+      "StackName": "amplify-lokeshmeadevsinfoapp-dev-84402",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:324106371807:stack/amplify-lokeshmeadevsinfoapp-dev-84402/b1e663e0-865d-11ed-88fe-0ae1c32f1ebf",
+      "AmplifyAppId": "d20rj2erg99dem"
+    },
+    "categories": {
+      "auth": {
+        "lokeshmeadevsinfoapp1678a7b7": {}
+      }
+    }
+  }
+}
